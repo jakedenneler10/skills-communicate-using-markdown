@@ -9,3 +9,16 @@ Labore burgdoggen filet mignon beef ribs swine sint tongue pork belly beef jowl 
 ##### Post it note
 ![Beesechurger](https://octodex.github.com/images/yaktocat.png) 
 ###### Might have too many sublevels
+
+```swift
+import SwiftUI
+
+@main
+struct FakeIdApp: App {
+    var body: some Scene {
+        WindowGroup {
+            ContentView()
+        }
+    }
+}
+```
