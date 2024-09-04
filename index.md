@@ -22,3 +22,9 @@ struct FakeIdApp: App {
     }
 }
 ```
+### Todays To-do List
+- [x] Work on github
+- [ ] Finish up the FakeID App
+- [ ] Objects in Swift
+- [ ] Code Stories
+- [ ] HTML Stuff (ignore)
